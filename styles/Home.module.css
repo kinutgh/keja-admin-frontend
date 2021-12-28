@@ -1,0 +1,33 @@
+.page {
+  background-color: rgb(245, 245, 245);
+  width: 100vw;
+  padding: 24px;
+}
+
+.title {
+  font-weight: 900;
+  padding: 24px 0px;
+  font-size: 1.6rem;
+}
+
+.subtitle {
+  width: inherit;
+  text-align: right;
+  font-family: "Consolas";
+  color: black;
+  font-size: 0.9rem;
+}
+
+.container {
+  background-color: white;
+  padding: 16px;
+  height: 65vh;
+}
+
+.form {
+  padding: 16px;
+  background-color: white;
+  width: 80vw;
+  margin: 0 auto;
+  margin-top: 30%;
+}
